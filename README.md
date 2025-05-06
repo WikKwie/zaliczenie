@@ -1,1 +1,2 @@
 # zaliczenie
+Wiktor Kwieczkowski
